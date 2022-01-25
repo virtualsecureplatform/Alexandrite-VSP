@@ -1,0 +1,6 @@
+[submodule "Iyokan"]
+	path = Iyokan
+	url = https://github.com/virtualsecureplatform/Iyokan.git
+[submodule "Alexandrite"]
+	path = Alexandrite
+	url = https://github.com/nindanaoto/Alexandrite.git
