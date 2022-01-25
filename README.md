@@ -1,2 +1,2 @@
-# Alexandrite-VSP
+# KVSP-Alexandrite
 kvsp using Alexandrite
